@@ -1,0 +1,6 @@
+id=pimax-fan-control-test
+name=Pimax Fan Auto Control
+version=1.2
+versionCode=1
+author=River Kawa
+description=Auto fan control for Pimax Android handheld using thermal zones and pwm_fan.
